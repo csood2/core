@@ -44,6 +44,7 @@ committees:
       - username: riyaj3
       - username: megharm2
       - username: podar2
+      - username: csood2
   - name: Events
     description: The events team runs Reflections | Projections and HackIllinois
     chairs: Cecilia Ding
